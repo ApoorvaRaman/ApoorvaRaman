@@ -26,19 +26,42 @@
 ---
 
 ### 💻 Tech Stack  
+
+#### 🌟 Core Skills  
+*Languages & Programming:*  
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,git,github&theme=light" /><br>
-  <!-- Areas -->
-  <img src="https://skillicons.dev/icons?i=linux,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,java,python&theme=light" />
+</p>
+
+*Web Development:*  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+</p>
+
+*Tools & Platforms:*  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,latex&theme=light" /><br>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
 
-### 📘 Currently Learning  
-- 🌱 Diving into *DSA with C programming*  
-- 🔍 Exploring *Web development & Data Science applications*  
-- ✨ Strengthening skills in *Java, Python, HTML, CSS*  
+#### 📚 Currently Exploring  
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-004C99?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=light" />
+</p>
+
+---
+
+#### 🌱 Currently Learning  
+- DSA with C  
+- JavaScript 
+- NumPy, Matplotlib (data science libraries)  
+- BeautifulSoup (web scraping)  
 
 ---
 

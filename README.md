@@ -90,7 +90,7 @@
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:24cd010.apoorvaraman@adishankara.ac.in"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=apoorvaraman@ieee.org" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
   <a href="https://www.linkedin.com/in/ApoorvaRaman"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </p>
 
